@@ -7,7 +7,7 @@
 
 `🤓` - Base, `🥸` - Advanced
 
-* `🤓` [Linked List](src/data-structures/linked-list)
+* `🤓` [Linked List](data-structures/linked-list)
 * `🤓` [Queue](src/data-structures/queue)
 * `🤓` [Stack](src/data-structures/stack)
 * `🤓` [Heap](src/data-structures/heap)
